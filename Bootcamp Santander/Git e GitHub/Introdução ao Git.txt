@@ -1,0 +1,13 @@
+Comandos Básicos - GIT
+
+- cd (entrar nas pastas)
+	- cd .. (para voltar pasta)
+- dir (lista diretórios)
+- mkdir (criar pastas)
+- del (deleta arquivo)
+- rmdir (deleta pastas)
+- cls (limpar tela)
+- echo (printa na tela)
+
+(TAB) - Para autocompletars
+(CTRL + SETA) - Listar comandos anteriores
